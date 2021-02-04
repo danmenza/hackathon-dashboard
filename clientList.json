@@ -1,0 +1,56 @@
+{
+  "JCPenney": {
+            "ticker": "JCP",
+            "cik": "0001166126"
+ },
+
+  "Walmart": {
+            "ticker": "WMT",
+            "cik": "0000104169"
+},
+
+  "Amazon": {
+            "ticker": "AMZN",
+            "cik": "0001018724"
+  },
+
+  "PayPal": {
+            "ticker": "PYPL",
+            "cik": "0001633917"
+  },
+
+  "Synchrony": {
+            "ticker": "SYF",
+            "cik": "0001601712"
+
+  },
+  "TJ Maxx": {
+            "ticker": "TJX",
+            "cik": "0000109198"
+
+  },
+
+  "American Eagle": {
+            "ticker": "AEO",
+            "cik": "0000919012"
+
+  },
+"Dick's Sporting Goods": {
+            "ticker": "DKS",
+            "cik": "0001089063"
+
+},
+
+  "Google":{
+            "ticker": "GOOGL",
+            "cik": "0001288776"
+
+  },
+
+  "BP": {
+          "ticker": "BP",
+          "cik": "0000831114"
+
+  }
+
+}
